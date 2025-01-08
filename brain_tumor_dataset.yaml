@@ -1,6 +1,6 @@
-path: ./
-train: ../Brain Tumor labeled dataset/train
-val: ../Brain Tumor labeled dataset/test
+path: ./labeled-datase/Brain Tumor labeled dataset
+train: ./labeled-datase/Brain Tumor labeled dataset/train
+val: .labeled-datase/Brain Tumor labeled dataset/test
 
 names:
     0: glioma
